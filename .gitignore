@@ -1,0 +1,8 @@
+# sessões locais do whatsapp-web.js
+.wwebjs_auth/
+# dados locais
+data/payments.json
+# sistema
+node_modules/
+npm-debug.log*
+.DS_Store

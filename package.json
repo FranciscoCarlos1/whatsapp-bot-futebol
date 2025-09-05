@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-bot-futebol",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp para organizar mensalidade, churrasco e diária no grupo do futebol.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.25.0"
+  }
+}
